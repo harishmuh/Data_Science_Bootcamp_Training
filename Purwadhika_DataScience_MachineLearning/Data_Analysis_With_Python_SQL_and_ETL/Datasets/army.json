@@ -1,0 +1,148 @@
+{
+  "army_data": [
+    {
+      "regiment": "Nighthawks",
+      "company": "1st",
+      "deaths": 523,
+      "battles": 5,
+      "size": 1045,
+      "veterans": 1,
+      "readiness": 1,
+      "armored": 1,
+      "deserters": 4,
+      "origin": "Arizona"
+    },
+    {
+      "regiment": "Nighthawks",
+      "company": "1st",
+      "deaths": 52,
+      "battles": 42,
+      "size": 957,
+      "veterans": 5,
+      "readiness": 2,
+      "armored": 0,
+      "deserters": 24,
+      "origin": "California"
+    },
+    {
+      "regiment": "Nighthawks",
+      "company": "2nd",
+      "deaths": 25,
+      "battles": 2,
+      "size": 1099,
+      "veterans": 62,
+      "readiness": 3,
+      "armored": 1,
+      "deserters": 31,
+      "origin": "Texas"
+    },
+    {
+      "regiment": "Nighthawks",
+      "company": "2nd",
+      "deaths": 616,
+      "battles": 2,
+      "size": 1400,
+      "veterans": 26,
+      "readiness": 3,
+      "armored": 1,
+      "deserters": 2,
+      "origin": "Florida"
+    },
+    {
+      "regiment": "Dragoons",
+      "company": "1st",
+      "deaths": 43,
+      "battles": 4,
+      "size": 1592,
+      "veterans": 73,
+      "readiness": 2,
+      "armored": 0,
+      "deserters": 3,
+      "origin": "Maine"
+    },
+    {
+      "regiment": "Dragoons",
+      "company": "1st",
+      "deaths": 234,
+      "battles": 7,
+      "size": 1006,
+      "veterans": 37,
+      "readiness": 1,
+      "armored": 1,
+      "deserters": 4,
+      "origin": "Iowa"
+    },
+    {
+      "regiment": "Dragoons",
+      "company": "2nd",
+      "deaths": 523,
+      "battles": 8,
+      "size": 987,
+      "veterans": 949,
+      "readiness": 2,
+      "armored": 0,
+      "deserters": 24,
+      "origin": "Alaska"
+    },
+    {
+      "regiment": "Dragoons",
+      "company": "2nd",
+      "deaths": 62,
+      "battles": 3,
+      "size": 849,
+      "veterans": 48,
+      "readiness": 3,
+      "armored": 1,
+      "deserters": 31,
+      "origin": "Washington"
+    },
+    {
+      "regiment": "Scouts",
+      "company": "1st",
+      "deaths": 62,
+      "battles": 4,
+      "size": 973,
+      "veterans": 48,
+      "readiness": 2,
+      "armored": 0,
+      "deserters": 2,
+      "origin": "Oregon"
+    },
+    {
+      "regiment": "Scouts",
+      "company": "1st",
+      "deaths": 73,
+      "battles": 7,
+      "size": 1005,
+      "veterans": 435,
+      "readiness": 1,
+      "armored": 0,
+      "deserters": 3,
+      "origin": "Wyoming"
+    },
+    {
+      "regiment": "Scouts",
+      "company": "2nd",
+      "deaths": 37,
+      "battles": 8,
+      "size": 1099,
+      "veterans": 63,
+      "readiness": 2,
+      "armored": 1,
+      "deserters": 2,
+      "origin": "Louisana"
+    },
+    {
+      "regiment": "Scouts",
+      "company": "2nd",
+      "deaths": 35,
+      "battles": 9,
+      "size": 1523,
+      "veterans": 345,
+      "readiness": 3,
+      "armored": 1,
+      "deserters": 3,
+      "origin": "Georgia"
+    }
+  ]
+}
